@@ -11,7 +11,8 @@ Early detection of retinal diseases is crucial to prevent vision loss. Manual di
 
 ## 🗄 Dataset & Preprocessing
 
-- **Dataset:** Retinal images obtained from [Kaggle / publicly available dataset].  
+- **Dataset:** Retinal images obtained from [Kaggle Eye Diseases Classification Dataset](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification).  
+  
 - **Classes:** 5 retinal disease categories.  
 - **Image Preprocessing:** All images were resized to 224x224 pixels and normalized.  
 - **Data Augmentation:** Random rotations, horizontal and vertical flips, and zoom were applied to increase variability and improve generalization.  
