@@ -1,0 +1,8 @@
+Class,Precision,Recall,F1-score
+Cataract,0.95,0.99,0.97
+Diabetic Retinopathy,0.59,0.95,0.73
+Glaucoma,0.91,0.56,0.70
+Normal,0.95,0.56,0.71
+Accuracy,,,0.77
+Macro Avg,0.85,0.76,0.77
+Weighted Avg,0.83,0.77,0.77

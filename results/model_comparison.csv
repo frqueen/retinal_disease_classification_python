@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-score
+VGG16,0.89,0.90,0.89,0.89
+VGG19,0.92,0.92,0.91,0.91
+ResNet50,0.92,0.91,0.92,0.92
+EfficientNetB3,0.93,0.93,0.93,0.92
+DenseNet121,0.90,0.91,0.90,0.90
+Fine-tuned DenseNet121,0.95,0.96,0.95,0.95
